@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "airbnb-base-typescript-prettier",
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
